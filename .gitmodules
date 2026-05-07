@@ -1,0 +1,3 @@
+[submodule "WPLauncherHelper"]
+	path = WPLauncherHelper
+	url = https://github.com/KawaiiNekoChanProject/WPLauncherHelper.git
